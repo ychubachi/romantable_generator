@@ -4,3 +4,4 @@
 /coverage/
 xmptmp-*
 /latex/auto/jsample.el
+.bundle/
